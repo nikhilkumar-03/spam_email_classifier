@@ -5,7 +5,7 @@ Built an NLP-based classifier to detect spam messages using machine learning.
 Trained on the UCI SMS Spam Collection dataset containing 5,500+ messages.
 
 ## Tech Stack
-- Python, Pandas, Scikit-learn
+- Python, Pandas, Numpy, Matplotlib, Seaborn, Scikit-learn
 - TF-IDF Vectorization
 - Naive Bayes & Logistic Regression
 
